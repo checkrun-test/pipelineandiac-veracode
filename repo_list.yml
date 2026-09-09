@@ -10,9 +10,9 @@
 
 #Populate the list of repos required to scan under org or leave it blank or '*' to include all
 include_repos:
-  - 'example-*'
-  - 'vu*'
- # - '*example*'
+ # - 'example-*'
+ # - 'vu*'
+  - '*example*'
 #  - 'e*-*'
 #  - 'e*pt' 
 
